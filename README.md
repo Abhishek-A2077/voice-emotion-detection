@@ -24,6 +24,12 @@ The model is trained and evaluated on the dataset with the following results:
 - **F1-Score**: Detailed F1 scores for each emotion.
 - **Confusion Matrix**: Visualizes the performance of the model using a confusion matrix.
 
+## Project Preview
+
+Below is a preview of the Voice Emotion Recognition project:
+
+![Voice Emotion Recognition Preview](images/voice_emotion_recognition_preview.jpg)
+
 ## Installation
 
 To run this project, ensure the following dependencies are installed:
@@ -35,9 +41,5 @@ pip install scikit-learn
 pip install matplotlib
 pip install soundfile
 
-## Project Preview
 
-Below is a preview of the Voice Emotion Recognition project:
-
-![Voice Emotion Recognition Preview](images/voice_emotion_recognition_preview.jpg)
 
