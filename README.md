@@ -34,3 +34,10 @@ pip install gradio
 pip install scikit-learn
 pip install matplotlib
 pip install soundfile
+
+## Project Preview
+
+Below is a preview of the Voice Emotion Recognition project:
+
+![Voice Emotion Recognition Preview](images/voice_emotion_recognition_preview.jpg)
+
